@@ -1,3 +1,8 @@
-# tuesday
-## Checklist
-### Preliminary UI
+# tuesday Checklist
+
+### Completed: 
+Preliminary UI
+
+### To-do:
+Calendar
+To-do list feature
