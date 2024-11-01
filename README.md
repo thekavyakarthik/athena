@@ -1,6 +1,6 @@
 # tuesday
 
-<insert sales pitch here>
+// insert sales pitch here
 
 ### Completed: 
 - Preliminary UI
