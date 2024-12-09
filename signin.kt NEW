@@ -1,11 +1,11 @@
-package com.example.fbtesting;
+package com.example.fbtesting; // change this in our project 
 
 import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.fbtesting.databinding.ActivitySignInBinding
+import com.example.fbtesting.databinding.ActivitySignInBinding // change fbtesting to our file name 
 import com.google.firebase.Firebase
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.auth
